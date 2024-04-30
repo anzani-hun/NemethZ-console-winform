@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.33927.289
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console_CSV_adatbazissal", "Console_CSV_adatbazissal\Console_CSV_adatbazissal.csproj", "{1D70F096-E2E6-4318-BF23-303D05BD2D2E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI - WindowsForms", "GUI - WindowsForms\GUI - WindowsForms.csproj", "{F7C70D1C-81D9-4728-AE1D-D2D3BEBBA1EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1D70F096-E2E6-4318-BF23-303D05BD2D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D70F096-E2E6-4318-BF23-303D05BD2D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D70F096-E2E6-4318-BF23-303D05BD2D2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7C70D1C-81D9-4728-AE1D-D2D3BEBBA1EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7C70D1C-81D9-4728-AE1D-D2D3BEBBA1EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7C70D1C-81D9-4728-AE1D-D2D3BEBBA1EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7C70D1C-81D9-4728-AE1D-D2D3BEBBA1EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
