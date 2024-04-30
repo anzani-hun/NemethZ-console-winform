@@ -1,3 +1,6 @@
+
+# FELADAT FELADAT:
+
 <img src="Console_CSV_adatbazissal/!futtatas-kep.PNG" alt="konzolos program"/>
 
 
@@ -11,3 +14,6 @@ CREATE DATABASE munkasok;
 LISTBOX
 
 DATAGRID
+
+listbox, label
+textbox, numericUpDown
