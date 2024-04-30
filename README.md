@@ -2,7 +2,11 @@
 
 
 
+
+# GUI FELADAT:
+
 CREATE DATABASE munkasok;
+
 
 LISTBOX
 
